@@ -1,7 +1,7 @@
 {
-  "name": "快速部署demo",
-  "description": "Deploy demo.",
-  "keywords": ["V", "X"],
+  "name": "oppeiftax02",
+  "description": "oppeiftax02",
+  "keywords": ["oppeiftax02"],
   "env": {
     "ProxySite": {
       "description": "反代的网站(伪装网站)，例如：mirror.umd.edu ",
